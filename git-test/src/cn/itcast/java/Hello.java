@@ -12,11 +12,14 @@ public class Hello {
         System.out.println("你好 GIT");
         System.out.println("你好 GIT");
         System.out.println("你好 GIT");
+
+        //hello git!!!!!!!
     }
 
     public void test(){
         int i=0;
         i += 10;
+        System.out.println(i);
     }
 
 
