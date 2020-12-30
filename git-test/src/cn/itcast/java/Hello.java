@@ -14,5 +14,10 @@ public class Hello {
         System.out.println("你好 GIT");
     }
 
+    public void test(){
+        int i=0;
+        i += 10;
+    }
+
 
 }
